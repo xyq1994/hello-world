@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+只是另一个存储库
+你的世界就是我的世界！
+我就我，是颜色不一样的烟火
